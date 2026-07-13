@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(mutualzz_rpc VERSION 0.1.0 LANGUAGES CXX)
+project(mutualzz_rpc VERSION 1.0.0 LANGUAGES CXX)
 
 add_library(mutualzz_rpc src/rpc.cpp)
 add_library(mutualzz::rpc ALIAS mutualzz_rpc)

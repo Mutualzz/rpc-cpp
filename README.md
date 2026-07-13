@@ -2,7 +2,9 @@
 
 C++ client for Mutualzz desktop Rich Presence over local IPC.
 
-Protocol: [`../rpc/PROTOCOL.md`](../rpc/PROTOCOL.md)
+Requires the **Mutualzz desktop app** to be running.
+
+Protocol: [`PROTOCOL.md`](https://github.com/Mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
 
 ## Build
 
@@ -10,8 +12,6 @@ Protocol: [`../rpc/PROTOCOL.md`](../rpc/PROTOCOL.md)
 cmake -S packages/rpc-cpp -B build/rpc-cpp -DMUTUALZZ_RPC_BUILD_EXAMPLES=ON
 cmake --build build/rpc-cpp
 ```
-
-Source tarballs ship on `rpc-v*` GitHub releases from [`.github/workflows/release-rpc.yml`](../../.github/workflows/release-rpc.yml).
 
 ## Usage
 
