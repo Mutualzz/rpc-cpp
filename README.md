@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mutualzz development moved to [git.mutualzz.com](https://git.mutualzz.com/mutualzz/mutualzz)
+# Mutualzz is developed at [git.mutualzz.com](https://git.mutualzz.com/mutualzz/rpc-cpp)
 
 **GitHub is a read-only mirror. Issues and pull requests opened on GitHub are not monitored.**
 
@@ -14,7 +14,7 @@ C++ client for Mutualzz desktop Rich Presence over local IPC.
 
 Requires the **Mutualzz desktop app** to be running.
 
-Protocol: [`PROTOCOL.md`](https://git.mutualzz.com/mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
+Protocol: [`PROTOCOL.md`](https://git.mutualzz.com/mutualzz/rpc/src/branch/master/PROTOCOL.md)
 
 ## Build
 
