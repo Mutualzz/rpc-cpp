@@ -14,7 +14,7 @@ C++ client for Mutualzz desktop Rich Presence over local IPC.
 
 Requires the **Mutualzz desktop app** to be running.
 
-Protocol: [`PROTOCOL.md`](https://github.com/Mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
+Protocol: [`PROTOCOL.md`](https://git.mutualzz.com/mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
 
 ## Build
 
